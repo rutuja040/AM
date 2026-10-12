@@ -1,0 +1,6 @@
+print("================================")
+print("   Welcome to Jenkins CI/CD!")
+print("================================")
+print("Hello! Jenkins is running my code.")
+print("Code fetched successfully from GitHub.")
+print("Build executed successfully!")
